@@ -1,6 +1,8 @@
 import os
 import mysql.connector
 
+print("Welcome to cohort 34 presentation")
+
 # Establishing connection to MariaDB
 db =  mysql.connector.connect(
     host="localhost",
